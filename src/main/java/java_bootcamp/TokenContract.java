@@ -1,4 +1,4 @@
-package java_bootcamp;
+package main.java.java_bootcamp;
 
 import net.corda.core.contracts.Command;
 import net.corda.core.contracts.CommandData;

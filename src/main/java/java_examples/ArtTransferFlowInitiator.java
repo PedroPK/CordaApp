@@ -1,4 +1,4 @@
-package java_examples;
+package main.java.java_examples;
 
 import co.paralleluniverse.fibers.Suspendable;
 import com.google.common.collect.ImmutableList;

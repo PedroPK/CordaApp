@@ -1,4 +1,4 @@
-package java_bootcamp;
+package main.java.java_bootcamp;
 
 import co.paralleluniverse.fibers.Suspendable;
 import net.corda.core.flows.*;

@@ -1,4 +1,4 @@
-package java_examples;
+package main.java.java_examples;
 
 import net.corda.core.contracts.*;
 import net.corda.core.transactions.LedgerTransaction;
